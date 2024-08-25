@@ -1,0 +1,2 @@
+﻿  Souvenirs.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\algorithm(8165,10): error C2672: "std::_Sort_unchecked": не найдена соответствующая перегруженная функция
