@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\iovch\\source\\repos\\Candies\\",
+  "WorkspaceRootPath": "C:\\GitHub\\\u0416\u0430\u0434\u043D\u044B\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B\\Candies\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B17689A-B4FB-4C1C-AF6F-8C09B1DC94C7}|Candies\\Candies.vcxproj|C:\\Users\\iovch\\source\\repos\\Candies\\Candies\\Candies.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8B17689A-B4FB-4C1C-AF6F-8C09B1DC94C7}|Candies\\Candies.vcxproj|C:\\GitHub\\\u0416\u0430\u0434\u043D\u044B\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B\\Candies\\Candies\\Candies.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8B17689A-B4FB-4C1C-AF6F-8C09B1DC94C7}|Candies\\Candies.vcxproj|solutionrelative:Candies\\Candies.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,14 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Candies.cpp",
-              "DocumentMoniker": "C:\\Users\\iovch\\source\\repos\\Candies\\Candies\\Candies.cpp",
+              "DocumentMoniker": "C:\\GitHub\\\u0416\u0430\u0434\u043D\u044B\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B\\Candies\\Candies\\Candies.cpp",
               "RelativeDocumentMoniker": "Candies\\Candies.cpp",
-              "ToolTip": "C:\\Users\\iovch\\source\\repos\\Candies\\Candies\\Candies.cpp",
-              "RelativeToolTip": "Candies\\Candies.cpp",
+              "ToolTip": "C:\\GitHub\\\u0416\u0430\u0434\u043D\u044B\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B\\Candies\\Candies\\Candies.cpp [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "Candies\\Candies.cpp [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-30T18:41:19.136Z",
-              "EditorCaption": ""
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
             }
           ]
         }
